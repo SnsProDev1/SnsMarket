@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "784645310772",
+    "project_id": "snsmarket-c44ef",
+    "storage_bucket": "snsmarket-c44ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:784645310772:android:d5912a1e9e0d515836fd61",
+        "android_client_info": {
+          "package_name": "com.snspro.snsmarket"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWL-Evm9zekRRfXfVE9Jv35sKE2FZoEis"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
